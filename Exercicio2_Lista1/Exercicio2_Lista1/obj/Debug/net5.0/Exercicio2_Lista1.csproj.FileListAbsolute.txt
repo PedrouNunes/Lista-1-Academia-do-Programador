@@ -1,0 +1,16 @@
+C:\Users\pedro\OneDrive\Área de Trabalho\Academia do Programador\Exercicio2_Lista1\Exercicio2_Lista1\bin\Debug\net5.0\Exercicio2_Lista1.exe
+C:\Users\pedro\OneDrive\Área de Trabalho\Academia do Programador\Exercicio2_Lista1\Exercicio2_Lista1\bin\Debug\net5.0\Exercicio2_Lista1.deps.json
+C:\Users\pedro\OneDrive\Área de Trabalho\Academia do Programador\Exercicio2_Lista1\Exercicio2_Lista1\bin\Debug\net5.0\Exercicio2_Lista1.runtimeconfig.json
+C:\Users\pedro\OneDrive\Área de Trabalho\Academia do Programador\Exercicio2_Lista1\Exercicio2_Lista1\bin\Debug\net5.0\Exercicio2_Lista1.runtimeconfig.dev.json
+C:\Users\pedro\OneDrive\Área de Trabalho\Academia do Programador\Exercicio2_Lista1\Exercicio2_Lista1\bin\Debug\net5.0\Exercicio2_Lista1.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Academia do Programador\Exercicio2_Lista1\Exercicio2_Lista1\bin\Debug\net5.0\ref\Exercicio2_Lista1.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Academia do Programador\Exercicio2_Lista1\Exercicio2_Lista1\bin\Debug\net5.0\Exercicio2_Lista1.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\Academia do Programador\Exercicio2_Lista1\Exercicio2_Lista1\obj\Debug\net5.0\Exercicio2_Lista1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\OneDrive\Área de Trabalho\Academia do Programador\Exercicio2_Lista1\Exercicio2_Lista1\obj\Debug\net5.0\Exercicio2_Lista1.AssemblyInfoInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\Academia do Programador\Exercicio2_Lista1\Exercicio2_Lista1\obj\Debug\net5.0\Exercicio2_Lista1.AssemblyInfo.cs
+C:\Users\pedro\OneDrive\Área de Trabalho\Academia do Programador\Exercicio2_Lista1\Exercicio2_Lista1\obj\Debug\net5.0\Exercicio2_Lista1.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\Academia do Programador\Exercicio2_Lista1\Exercicio2_Lista1\obj\Debug\net5.0\Exercicio2_Lista1.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Academia do Programador\Exercicio2_Lista1\Exercicio2_Lista1\obj\Debug\net5.0\ref\Exercicio2_Lista1.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Academia do Programador\Exercicio2_Lista1\Exercicio2_Lista1\obj\Debug\net5.0\Exercicio2_Lista1.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\Academia do Programador\Exercicio2_Lista1\Exercicio2_Lista1\obj\Debug\net5.0\Exercicio2_Lista1.genruntimeconfig.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\Academia do Programador\Exercicio2_Lista1\Exercicio2_Lista1\obj\Debug\net5.0\Exercicio2_Lista1.csproj.AssemblyReference.cache
