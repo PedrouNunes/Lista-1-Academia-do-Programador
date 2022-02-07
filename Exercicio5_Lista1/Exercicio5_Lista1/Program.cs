@@ -12,7 +12,7 @@ namespace Exercicio5_Lista1
             decimal salario, aumento, desconto;
 
             Console.WriteLine("Digite o salário do funcionário: ");
-            salario = System.Convert.ToDecimal(Console.ReadLine();
+            salario = System.Convert.ToDecimal(Console.ReadLine());
 
             aumento = salario + (salario * aumentoSalario);
 
