@@ -7,7 +7,7 @@ namespace Exercicio5_Lista1
         static void Main(string[] args)
         {
             const decimal aumentoSalario = 0.15m;
-            const decimal impostoSalario = 0.8m;
+            const decimal impostoSalario = 0.08m;
 
             decimal salario, aumento, desconto;
 
